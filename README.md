@@ -1,7 +1,7 @@
 # douban-opener
 A userscript to auto-fill forms in OpenLibrary
 
-See [https://greasyfork.org/en/scripts/432549-douban-opener-manual-ver/code](https://greasyfork.org/en/scripts/432549-douban-opener-manual-ver/code).
+See [https://greasyfork.org/en/scripts/432559-douban-opener-manual-ver](https://greasyfork.org/en/scripts/432559-douban-opener-manual-ver).
 
 注意，豆瓣的 [法律声明](https://www.douban.com/about/legal) 中有以下内容：
 
